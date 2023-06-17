@@ -1,0 +1,8 @@
+titles:
+  - "Добро пожаловать на наш сервер"
+  - "Скидки на привилегии 20%"
+  - "Подписываетесь на нашу группу вк vk.com/sirexmc"
+# В тиках, 20 тиков = 1 секунда
+updateTime: 200
+# PINK, BLUE, RED, GREEN, YELLOW, PURPLE, WHITE
+barColor: 2

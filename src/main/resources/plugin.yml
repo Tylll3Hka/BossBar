@@ -1,0 +1,8 @@
+name: BossBar
+version: '1.0'
+main: Main
+api-version: 1.19
+prefix: BossBar
+authors: [Tylllenka]
+description: Плагин который меняет BossBar
+website: vk.com/tylllenka
